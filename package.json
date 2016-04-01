@@ -1,0 +1,21 @@
+{
+  "name": "treehouse-p7",
+  "version": "1.0.0",
+  "description": "Build a HTML5 video player using JavaScript and the HTML5 Video API",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bencodezen/treehouse-p7.git"
+  },
+  "author": "Benjamin Hong",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.11.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-sass": "^2.2.0"
+  }
+}
